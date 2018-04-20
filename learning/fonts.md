@@ -9,7 +9,7 @@
 ##### Fonts:
 
 * [A Comprehensive Guide to Font Loading Strategies](https://www.zachleat.com/web/comprehensive-webfonts/) [read]
-* [Beautiful Web Type a Showcase of the Best Typefaces from the Google Web Fonts Directory](http://hellohappy.org/beautiful-web-type/) [read]
+* [Beautiful Web Type a Showcase of the Best Typefaces from the Google Web Fonts Directory](http://beautifulwebtype.com) [read]
 * [Quick Guide to Webfonts via @font-face](http://www.html5rocks.com/en/tutorials/webfonts/quick/) [read]
 * [MDN: Web fonts](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Web_fonts) [read]
 * [Responsive Typography](https://frontendmasters.com/courses/responsive-typography/) [watch][$]
